@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "7c07a30a-27d2-1f0a-4800-5168c3e2a3c1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Statistical Method in Economics",
+  "course_description": "This course is a self-contained introduction to statistics with economic applications. Elements of probability theory, sampling theory, statistical estimation, regression analysis, and hypothesis testing. It uses elementary econometrics and other applications of statistical tools to economic data. It also provides a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed in the further study of econometrics and provide basic preparation for [14.32](courses/14-32-econometrics-spring-2007). No prior preparation in probability and statistics is required, but familiarity with basic algebra and calculus is assumed.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.30",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
